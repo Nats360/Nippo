@@ -1,2 +1,8 @@
-# Java_TIL
-Javaの一日の習得を記録
+# TIL
+ディレクトリごとに一日の習得を記録
+
+内容
+- Java
+- VFXGraph
+- C#
+- 
